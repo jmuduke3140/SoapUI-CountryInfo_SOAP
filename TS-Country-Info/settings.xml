@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="52eab92d-df47-442a-99e6-fcd4570f29f5" name="TS-Country Info" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="52eab92d-df47-442a-99e6-fcd4570f29f5fileName">TS-Country-Info</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
